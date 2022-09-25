@@ -1,0 +1,51 @@
+[
+    {
+        "Foto" : "https://yeniemlak.az/get-img/25092022W1378684.jpg",
+        "Mekan" : "Mərdəkan",
+        "Qiymet" : "360000 Azn",
+        "Sahesi" : "200 m2",
+        "Otaq" : "4 otaq",
+        "chixarish" : "Kupçalı"
+    },
+    {
+        "Foto" : "https://yeniemlak.az/get-img/25092022W1378674.jpg",
+        "Mekan" : "Saray",
+        "Qiymet" : "198000 Azn",
+        "Sahesi" : "220 m2",
+        "Otaq" : "5 otaq",
+        "chixarish" : "Kupçasız"
+    },
+    {
+        "Foto" : "https://yeniemlak.az/get-img/25092022W1378620.jpg",
+        "Mekan" : "Koroğlu",
+        "Qiymet" : "540000 Azn",
+        "Sahesi" : "270 m2",
+        "Otaq" : "6 otaq",
+        "chixarish" : "Kupçalı"
+    },
+    {
+        "Foto" : "https://yeniemlak.az/get-img/25092022W1378290.jpg",
+        "Mekan" : "Azadlıq",
+        "Qiymet" : "87000 Azn",
+        "Sahesi" : "140 m2",
+        "Otaq" : "4 otaq",
+        "chixarish" : "Kupçalı"
+    },
+    {
+        "Foto" : "https://yeniemlak.az/get-img/25092022W1378290.jpg",
+        "Mekan" : "Masazır",
+        "Qiymet" : "390000 Azn",
+        "Sahesi" : "200 m2",
+        "Otaq" : "4 otaq",
+        "chixarish" : "Kupçasız"
+    },
+    {
+        "Foto" : "https://yeniemlak.az/get-img/25092022W1839245.jpg",
+        "Mekan" : "Neftçilər",
+        "Qiymet" : "179000 Azn",
+        "Sahesi" : "300 m2",
+        "Otaq" : "7 otaq",
+        "chixarish" : "Kupçalı"
+    }
+
+]

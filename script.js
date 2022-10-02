@@ -23,6 +23,9 @@ window.onload = getAllProducts
              <p> ${komputerinAnladigiData[i].Sahesi} </p>
              <p> ${komputerinAnladigiData[i].Otaq} </p>
              <p> ${komputerinAnladigiData[i].chixarish} </p>
+             <button>Elanı irəli çək</button>
+             <button onclick="Toggle1()" id="btnh1" class="btnn"><i class="fas fa-heart"></i></Button>
+             <h5>Yeni Siyahı</h5>
              </div>
             `
         }
@@ -32,3 +35,12 @@ window.onload = getAllProducts
     console.log(`Xeta firladildi: ${hata}`)
    }
 }
+// const btnvar1 = document.getElementById('btnh1');
+// function Toggle1(){
+//     if (btnvar1.style.color =="red") {
+//         btnvar1.style.color = "grey"
+//     }
+//     else{
+//         btnvar1.style.color = "red"
+//     }
+// }
